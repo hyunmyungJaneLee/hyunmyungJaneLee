@@ -1,8 +1,8 @@
-### Hi
-### I'm frontend engineer, 현명👋
+### Frontend Engineer, 현명👋
 
 <br>
- <a href="https://github.com/hyunmyungJaneLee"><img src="https://img.shields.io/badge/GitHub-181717?style=label&logo=GitHub&logoColor=white"/></a>
+ <a href="https://github.com/hyunmyungJaneLee">
+ <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svgurl=https%3A%2F%2Fgithub.com%2FhyunmyungJaneLee&count_bg=%23F35C85&title_bg=%23E99494&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
  <a href="https://jane.github.io"><img src="https://img.shields.io/badge/Blog-663399?style=label&logo=Gatsby&logoColor=white"/></a>
 
 <!--
