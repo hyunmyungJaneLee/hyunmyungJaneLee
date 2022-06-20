@@ -1,11 +1,19 @@
-<div align="center">
 
-</br>
+ <div align=center>
 
-## ** Hyun Myung ** 🍻 
-<a href="https://github.com/hyunmyungJaneLee"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FhyunmyungJaneLee&count_bg=%23F35C85&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/></a> <a href="https://jane.github.io"><img src="https://img.shields.io/badge/Blog By Gatsby-663399?style=label&logo=Gatsby&logoColor=white"/></a>
+  <h1>Go Drink!🍻</h1>
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FhyunmyungJaneLee)](https://hits.seeyoufarm.com) 
+  <a href="https://jane.github.io"><img src="https://img.shields.io/badge/Jane's blog-663399?style=label&logo=GitHub&logoColor=white"/></a> 
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=label&logo=Gmail&logoColor=white&link=mailto:hmlee2356@gmail.com)](mailto:hmlee2356@gmail.com)
 
----
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunmyungJaneLee)](https://github.com/hyunmyungJaneLee/github-readme-stats)
-</div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunmyungJaneLee&layout=compact)](https://github.com/hyunmyungJaneLee/github-readme-stats)
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunmyungJaneLee&show_icons=true&theme=dracula)
+  
+ </div>
+
+
+
+
