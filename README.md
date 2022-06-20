@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi I'm frontend engineer, 현명👋
 
+ <a href="링크"><img src="https://img.shields.io/badge/blog?style=flat-square&logo=blog&logoColor=#181717"/></a>
 <!--
 **hyunmyungJaneLee/hyunmyungJaneLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
