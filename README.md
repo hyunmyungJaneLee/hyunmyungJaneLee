@@ -3,7 +3,7 @@
 
   <h1>Go get it!🍻</h1>
   
-  <a href="https://hyunmyungjanelee.github.io"><img src="https://img.shields.io/badge/Jane's blog-663399?style=label&logo=GitHub&logoColor=white"/></a> 
+  <a href="https://hyunmyungjanelee.github.io"><img src="https://img.shields.io/badge/blog-663399?style=label&logo=GitHub&logoColor=white"/></a> 
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=label&logo=Gmail&logoColor=white&link=mailto:hmlee2356@gmail.com)](mailto:hmlee2356@gmail.com)
 
 
