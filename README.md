@@ -8,7 +8,6 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunmyungJaneLee&layout=compact)](https://github.com/hyunmyungJaneLee/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunmyungJaneLee&show_icons=true&theme=dracula&count_private=true&card_width=10&layout=compact)
   
  </div>
 
