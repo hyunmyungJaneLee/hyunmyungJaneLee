@@ -11,12 +11,13 @@
 
   
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/hyunmyungJaneLee?pet-id=586059619737367860"
-    width="600"
-    height="120"
-  />
+<img
+  src="https://render.gitanimals.org/farms/hyunmyungJaneLee"
+  width="600"
+  height="300"
+/>
 </a>
+
  </div>
 
 
