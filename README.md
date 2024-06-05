@@ -9,10 +9,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunmyungJaneLee&layout=compact)](https://github.com/hyunmyungJaneLee/github-readme-stats)
 
-  <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/hyunmyungJaneLee?pet-id=1" width="1000" height="120"/>
+  
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/hyunmyungJaneLee?pet-id=586059619737367860"
+    width="600"
+    height="120"
+  />
 </a>
-
  </div>
 
 
